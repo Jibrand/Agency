@@ -1,5 +1,5 @@
 import './App.css'
-import Index from './pages/Home/index'
+import Index from './pages/Home'
 import Index1 from './pages/About/index'
 import Index2 from './pages/Contact/index'
 import SignIn from './pages/Authentication/Signin'
