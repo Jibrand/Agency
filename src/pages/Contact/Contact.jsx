@@ -9,7 +9,7 @@ import img7 from '../../assets/home_svg3.png'
 const About1 = () => {
     return (
         <>
-            <h1 className='text-center mt-20 font-extrabold text-6xl   about-text'>Send us SDAyour Quries</h1>
+            <h1 className='text-center mt-20 font-extrabold text-6xl   about-text'>Send us SDAdsdyour Quries</h1>
 
             <section className="text-gray-600 body-font sm:px-16">
                 <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
