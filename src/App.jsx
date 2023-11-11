@@ -24,7 +24,6 @@ function App() {
           <Route exact path='/dashboard1' element={<Dashboard1 />} />
         </Routes>
       </Router>
-      {/* <h1 className='bg-slate-600'>dasjld</h1> */}
     </>
   )
 }
