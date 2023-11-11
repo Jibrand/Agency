@@ -7,7 +7,6 @@ import Signup from './pages/Authentication/Signup'
 import Dashboard from './pages/Dashboard/Dashboard'
 import Dashboard1 from './pages/Dashboard/Dashboard1'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import Contact from './pages/Contact/Contact';
 
 function App() {
 
